@@ -1,0 +1,3 @@
+https://arduinogetstarted.com/reference/arduino-string-tofloat
+https://www.youtube.com/watch?v=qgP3sCichcU
+https://ev-database.org/uk/car/1555/Tesla-Model-3
